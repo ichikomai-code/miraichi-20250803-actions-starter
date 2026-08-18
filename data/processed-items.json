@@ -1,1 +1,19 @@
-[]
+{
+  "items": [
+    {
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/18/news055.html",
+      "title": "無料で読めるAIエージェントの実践ガイド、Googleが公開　基礎から本番実装まで学べる",
+      "processedAt": "2026-08-18T09:32:06.786Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20260818-israel-creates-fake-think-tank-dupe-ai-chatbots/",
+      "title": "イスラエルでAIチャットボットを欺く目的で設立された偽のシンクタンクが出現、わずか1週間強の間にAIチャットボットに影響を与えることを目的としたと思われる記事を少なくとも100本公開",
+      "processedAt": "2026-08-18T09:32:06.786Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20260818-bireleys-sawayaka-lemonade/",
+      "title": "ミントが香るレモネード「バヤリース大人のさわやかレモネード」試飲レビュー",
+      "processedAt": "2026-08-18T09:32:06.786Z"
+    }
+  ]
+}
