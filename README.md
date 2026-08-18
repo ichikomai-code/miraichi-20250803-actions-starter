@@ -1,5 +1,7 @@
 # GitHub Actions ではじめる情報収集の自動化
 
+[![verify](https://github.com/ichikomai-code/miraichi-20250803-actions-starter/actions/workflows/verify.yml/badge.svg)](https://github.com/ichikomai-code/miraichi-20250803-actions-starter/actions/workflows/verify.yml)
+
 **毎朝、気になる情報の要約が自分のメールに届く仕組み**を、サーバーを用意せずに作ります。
 
 MIRAICHI セミナー（2026年8月3日）の教材リポジトリです。
