@@ -1,8 +1,25 @@
 {
   "rss": [
-    {"name": "ITmedia AI+", "url": "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml"},
-    {"name": "Publickey", "url": "https://www.publickey1.jp/atom.xml"},
-    {"name": "GIGAZINE", "url": "https://gigazine.net/news/rss_2.0/"}
+    {
+      "name": "takamasa045 - X",
+      "url": "https://rsshub.app/twitter/user/takamasa045/exclude_rts_replies"
+    },
+    {
+      "name": "mmmiyama_D - X",
+      "url": "https://rsshub.app/twitter/user/mmmiyama_D/exclude_rts_replies"
+    },
+    {
+      "name": "MatoToushi - X",
+      "url": "https://rsshub.app/twitter/user/MatoToushi/exclude_rts_replies"
+    },
+    {
+      "name": "ez_tech - note",
+      "url": "https://note.com/ez_tech/rss"
+    },
+    {
+      "name": "kawai_design - X",
+      "url": "https://rsshub.app/twitter/user/kawai_design/exclude_rts_replies"
+    }
   ],
   "youtube": [],
   "note": []
